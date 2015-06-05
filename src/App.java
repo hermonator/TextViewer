@@ -1,4 +1,5 @@
 /**
+ * Text viewer App - prints the contents of a string to the console
  * Created by jesse_000 on 6/5/2015.
  */
 public class App {
